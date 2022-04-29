@@ -1,0 +1,22 @@
+h1{
+    color: aliceblue;
+    background-color: black;
+}
+
+h2{
+    text-align: center;   
+}
+h3{
+    text-align: right;
+}
+h2{
+    color: white;
+    background-color: purple;
+}
+h3{
+    color: rgb(12, 0, 39);
+    background-color: aquamarine;
+}
+span{
+    color: aqua;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 20px;
+}
+    
+
+button{
+    margin: 0px;
+    cursor: pointer;
+}
+.btn{
+    background-color: none;
+    border: none;
+    outline: 3px solid aqua;
+    color: aqua;
+    border-radius: 30px;
+    width: 11%;
+    height: 25px;
+
+}
+.btn1{
+    background-color: rgb(0, 153, 255);
+    color: white;
+    width: 15%;
+    height: 40px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.btn2{
+    color: white;
+    background-color: aqua;
+    border-radius: 100%;
+    border: none;
+    width: 3%;
+    height: 35px;
+}
